@@ -1,0 +1,32 @@
+.nav-margin {
+  margin-left: 270px;
+}
+
+.profile {
+  background-color: rgb(255, 251, 240);
+}
+
+.btn-color {
+  background-color: rgb(140, 166, 35);
+  color: white;
+}
+
+.wj-font {
+  font-size: 50px;
+  font-weight: 700;
+  color: rgb(250, 190, 76);
+}
+.wj-font-win {
+  font-size: 50px;
+  font-weight: 700;
+  color: rgb(54, 57, 88);
+  margin-top: -1.5rem;
+}
+.price {
+  color: rgb(250, 190, 76);
+  font-weight: 700;
+}
+.last-profile {
+  height: 420px;
+  margin-top: 100px;
+}
