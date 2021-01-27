@@ -9,6 +9,9 @@
 .profile {
   background-color: rgb(255, 251, 240);
 }
+.profile img {
+  width: 80%;
+}
 
 .btn-color {
   background-color: rgb(140, 166, 35);
